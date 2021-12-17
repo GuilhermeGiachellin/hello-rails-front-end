@@ -7,11 +7,11 @@ import {
 import Greeting from './greetings/greetings';
 
 const App = () => (
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<Greeting />} />
-        </Routes>
-      </BrowserRouter>
-  );
+  <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Greeting />} />
+    </Routes>
+  </BrowserRouter>
+);
 
 export default App;
