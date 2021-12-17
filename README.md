@@ -16,9 +16,8 @@ https://github.com/GuilhermeGiachellin/hello-rails-back-end
 
 1. Go to the [repository page](https://github.com/GuilhermeGiachellin/hello-rails-front-end).
 2. Clone it using git command `git clone https://github.com/GuilhermeGiachellin/hello-rails-front-end.git`.
-3. Run `bundle install` on your console.
-4. Run `yarn install` on your console.
-5. To see the live preview run `npm start` in your console.
+3. Run `yarn install` on your console.
+4. To see the live preview run `npm start` in your console.
 
 ## Authors
 
@@ -28,8 +27,6 @@ https://github.com/GuilhermeGiachellin/hello-rails-back-end
 - LinkedIn: [GuilhermeGiachellin](https://www.linkedin.com/in/guilherme-giachellin-2599771b9/)
 
 ## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/GuilhermeGiachellin/hello-rails-front-end/issues).
 
