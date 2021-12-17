@@ -4,15 +4,18 @@ import { fetchGreetings, selectAllGreetings } from '../redux/slice/greetingsSlic
 
 const Greetings = () => {
     const dispatch = useDispatch()
-  
+    const { entities } = useSelector((state) => state.greetings);
+    
   useEffect(() => {
     dispatch(fetchGreetings())
   }, [dispatch]);
-
+  console.log(entities);
   return (
     <div>    
-        <p>Random message: </p>       
-        <p>{useSelector((state) => selectAllGreetings(state))}</p>
+        <p>Random message: </p>  
+        {useSelector((state) => selectAllGreetings(state)).map((greet) => (
+          <p key={greet.id}> {greet.message} </p>         
+        ))}
     </div>
   )
 }
