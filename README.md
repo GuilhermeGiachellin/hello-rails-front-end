@@ -14,7 +14,7 @@ https://github.com/GuilhermeGiachellin/hello-rails-back-end
 
 ## To get a local copy up and running follow these simple steps:
 
-1. Go to the [repository page](https://github.com/GuilhermeGiachellin/hello-rails-back-end).
+1. Go to the [repository page](https://github.com/GuilhermeGiachellin/hello-rails-front-end).
 2. Clone it using git command `git clone https://github.com/GuilhermeGiachellin/hello-rails-front-end.git`.
 3. Run `bundle install` on your console.
 4. Run `yarn install` on your console.
