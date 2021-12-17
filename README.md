@@ -28,8 +28,6 @@ https://github.com/GuilhermeGiachellin/hello-rails-back-end
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
 Feel free to check the [issues page](https://github.com/GuilhermeGiachellin/hello-rails-front-end/issues).
 
 ## Show your support
